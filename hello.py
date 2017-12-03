@@ -1,1 +1,1 @@
-print("HelloWorld "*10, end="")
+print("Hello World "*10, end="")
